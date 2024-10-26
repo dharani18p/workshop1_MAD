@@ -257,7 +257,8 @@ public class MainActivity2 extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/7faf2c46-3d52-4ff5-b0e1-47d58a445710)
+![image](https://github.com/user-attachments/assets/0e7f722a-941e-4514-b399-978b52817b08)
+
 
 ![image](https://github.com/user-attachments/assets/89181ea2-8a36-4522-b3d6-75665f5d3395)
 
